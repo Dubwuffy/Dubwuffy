@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dubwuffy
-- 👀 I’m interested in programming and front end programming
+- 👀 I’m interested in webdesign and front end programming
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me 
